@@ -1,0 +1,5 @@
+0.14
+	增加 lplog alias 用于查看local_proxy 的　varnishlog 
+	增加 lpclog alias 用于查看local_proxy_core 的　varnishlog 
+	lptest 
+	lpctest

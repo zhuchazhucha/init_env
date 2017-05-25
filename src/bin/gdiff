@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+# -------------------------------------------------
+# File:        gdiff
+# Location:    /data/x/tools/team/bin
+# -------------------------------------------------
+
+#check if in git env
+GIT_PATH=`pwd`"/.git/config"
+
+if ! [ -e $GIT_PATH ]
+then
+    echo "`pwd` is not a valid git folder"
+    exit 1
+fi
+
+#Define git location
+CUR_BRANCH=`git branch | grep \* | awk '{print $2}'`
+
+#do the thing
+
+git config color.diff.whitespace "red reverse"
+# git diff $CUR_BRANCH -R --color # 逆向显示被删除的行末空格和换行符，如图一。副作用是添加行(+)与删除行(-)显示倒置
+git diff $CUR_BRANCH --ignore-space-change --ignore-space-at-eol --color # diff 时不显示行末空格与换行符变化

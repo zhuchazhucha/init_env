@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#check if in git env
+GIT_PATH=`pwd`"/.git/config"
+
+if ! [ -e $GIT_PATH ] 
+then
+    echo "`pwd` is not a valid git folder"
+    exit 1
+fi
+
+#Define git location
+GIT_POOL=`cat $GIT_PATH | grep url | awk '{print $3}' `
+CUR_BRANCH=`git branch | grep \* | awk '{print $2}'`
+
+#ommit master
+if [ "$CUR_BRANCH" = "master" ]
+then
+    GIT_POOL=
+    CUR_BRANCH=
+fi
+
+#do the thing
+
+git pull $GIT_POOL $CUR_BRANCH

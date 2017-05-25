@@ -1,0 +1,9 @@
+_dev:
+    - !C.project
+        name : "team"
+        root : "${HOME}/devspace/team"
+    - !C.version
+        file : "src/version.txt"
+    - !C.git
+        remote : "git@git.mararun.cn:mara/team.git"
+

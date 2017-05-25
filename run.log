@@ -1,0 +1,2311 @@
+ERROR:root:dst: /home/zuowenjian/devspace/myprj have exists
+INFO:root:cmd: tpl , cmd_ins : tpl_cmd
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web ]  --> dst [/home/zuowenjian/devspace/myprj/]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/pub_this.sh -> /home/zuowenjian/devspace/myprj/pub_this.sh
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/readme.md -> /home/zuowenjian/devspace/myprj/readme.md
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src ]  --> dst [/home/zuowenjian/devspace/myprj/src]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/version.txt -> /home/zuowenjian/devspace/myprj/src/version.txt
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_init ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_init]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/sys_init.php -> /home/zuowenjian/devspace/myprj/src/sys_init/sys_init.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_init/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/create_db.sql -> /home/zuowenjian/devspace/myprj/src/sys_init/create_db.sql
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_api ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_api]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/index.php -> /home/zuowenjian/devspace/myprj/src/sys_api/index.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_api/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/interceptor.php -> /home/zuowenjian/devspace/myprj/src/sys_api/interceptor.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_api/services ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_api/services]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/services/demo.php -> /home/zuowenjian/devspace/myprj/src/sys_api/services/demo.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/bizlogic ]  --> dst [/home/zuowenjian/devspace/myprj/src/bizlogic]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/bizlogic/entitys.php -> /home/zuowenjian/devspace/myprj/src/bizlogic/entitys.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_web ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_web]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/index.php -> /home/zuowenjian/devspace/myprj/src/sys_web/index.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_web/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/interceptor.php -> /home/zuowenjian/devspace/myprj/src/sys_web/interceptor.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_console ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_console]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_console/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_console/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_console/init.php -> /home/zuowenjian/devspace/myprj/src/sys_console/init.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/foundation ]  --> dst [/home/zuowenjian/devspace/myprj/src/foundation]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/foundation/readme.md -> /home/zuowenjian/devspace/myprj/src/foundation/readme.md
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/conf ]  --> dst [/home/zuowenjian/devspace/myprj/conf]
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/conf/options ]  --> dst [/home/zuowenjian/devspace/myprj/conf/options]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/init_php.ini -> /home/zuowenjian/devspace/myprj/conf/options/init_php.ini
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/web_fpm.conf -> /home/zuowenjian/devspace/myprj/conf/options/web_fpm.conf
+INFO:root:cmd: tpl , cmd_ins : tpl_cmd
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web ]  --> dst [/home/zuowenjian/devspace/myprj/]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/pub_this.sh -> /home/zuowenjian/devspace/myprj/pub_this.sh
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/readme.md -> /home/zuowenjian/devspace/myprj/readme.md
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src ]  --> dst [/home/zuowenjian/devspace/myprj/src]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/version.txt -> /home/zuowenjian/devspace/myprj/src/version.txt
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_init ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_init]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/sys_init.php -> /home/zuowenjian/devspace/myprj/src/sys_init/sys_init.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_init/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/create_db.sql -> /home/zuowenjian/devspace/myprj/src/sys_init/create_db.sql
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_api ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_api]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/index.php -> /home/zuowenjian/devspace/myprj/src/sys_api/index.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_api/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/interceptor.php -> /home/zuowenjian/devspace/myprj/src/sys_api/interceptor.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_api/services ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_api/services]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/services/demo.php -> /home/zuowenjian/devspace/myprj/src/sys_api/services/demo.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/bizlogic ]  --> dst [/home/zuowenjian/devspace/myprj/src/bizlogic]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/bizlogic/entitys.php -> /home/zuowenjian/devspace/myprj/src/bizlogic/entitys.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_web ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_web]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/index.php -> /home/zuowenjian/devspace/myprj/src/sys_web/index.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_web/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/interceptor.php -> /home/zuowenjian/devspace/myprj/src/sys_web/interceptor.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_console ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_console]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_console/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_console/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_console/init.php -> /home/zuowenjian/devspace/myprj/src/sys_console/init.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/foundation ]  --> dst [/home/zuowenjian/devspace/myprj/src/foundation]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/foundation/readme.md -> /home/zuowenjian/devspace/myprj/src/foundation/readme.md
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/conf ]  --> dst [/home/zuowenjian/devspace/myprj/conf]
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/conf/options ]  --> dst [/home/zuowenjian/devspace/myprj/conf/options]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/init_php.ini -> /home/zuowenjian/devspace/myprj/conf/options/init_php.ini
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/web_fpm.conf -> /home/zuowenjian/devspace/myprj/conf/options/web_fpm.conf
+ERROR:root:version updated : [0.6.2.104] ---> [0.6.2.105]
+INFO:root:cmd: tpl , cmd_ins : tpl_cmd
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web ]  --> dst [/home/zuowenjian/devspace/myprj/]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/pub_this.sh -> /home/zuowenjian/devspace/myprj/pub_this.sh
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/readme.md -> /home/zuowenjian/devspace/myprj/readme.md
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src ]  --> dst [/home/zuowenjian/devspace/myprj/src]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/version.txt -> /home/zuowenjian/devspace/myprj/src/version.txt
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_init ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_init]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/sys_init.php -> /home/zuowenjian/devspace/myprj/src/sys_init/sys_init.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_init/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_init/create_db.sql -> /home/zuowenjian/devspace/myprj/src/sys_init/create_db.sql
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_api ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_api]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/index.php -> /home/zuowenjian/devspace/myprj/src/sys_api/index.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_api/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/interceptor.php -> /home/zuowenjian/devspace/myprj/src/sys_api/interceptor.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_api/services ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_api/services]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_api/services/demo.php -> /home/zuowenjian/devspace/myprj/src/sys_api/services/demo.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/bizlogic ]  --> dst [/home/zuowenjian/devspace/myprj/src/bizlogic]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/bizlogic/entitys.php -> /home/zuowenjian/devspace/myprj/src/bizlogic/entitys.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_web ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_web]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/index.php -> /home/zuowenjian/devspace/myprj/src/sys_web/index.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_web/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_web/interceptor.php -> /home/zuowenjian/devspace/myprj/src/sys_web/interceptor.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/sys_console ]  --> dst [/home/zuowenjian/devspace/myprj/src/sys_console]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_console/bootstrap.php -> /home/zuowenjian/devspace/myprj/src/sys_console/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/sys_console/init.php -> /home/zuowenjian/devspace/myprj/src/sys_console/init.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/src/foundation ]  --> dst [/home/zuowenjian/devspace/myprj/src/foundation]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/src/foundation/readme.md -> /home/zuowenjian/devspace/myprj/src/foundation/readme.md
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/conf ]  --> dst [/home/zuowenjian/devspace/myprj/conf]
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/conf/options ]  --> dst [/home/zuowenjian/devspace/myprj/conf/options]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/init_php.ini -> /home/zuowenjian/devspace/myprj/conf/options/init_php.ini
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/web_fpm.conf -> /home/zuowenjian/devspace/myprj/conf/options/web_fpm.conf
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/web_ngx.conf -> /home/zuowenjian/devspace/myprj/conf/options/web_ngx.conf
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/api_fpm.conf -> /home/zuowenjian/devspace/myprj/conf/options/api_fpm.conf
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/api_php.ini -> /home/zuowenjian/devspace/myprj/conf/options/api_php.ini
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/test_php.ini -> /home/zuowenjian/devspace/myprj/conf/options/test_php.ini
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/web_php.ini -> /home/zuowenjian/devspace/myprj/conf/options/web_php.ini
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/conf/options/api_ngx.conf -> /home/zuowenjian/devspace/myprj/conf/options/api_ngx.conf
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/test ]  --> dst [/home/zuowenjian/devspace/myprj/test]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/test/phpunit.xml -> /home/zuowenjian/devspace/myprj/test/phpunit.xml
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/test/pylonstrap.php -> /home/zuowenjian/devspace/myprj/test/pylonstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/test/bootstrap.php -> /home/zuowenjian/devspace/myprj/test/bootstrap.php
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/test/phpunit.sh -> /home/zuowenjian/devspace/myprj/test/phpunit.sh
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/test/test.sh -> /home/zuowenjian/devspace/myprj/test/test.sh
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/test/cases ]  --> dst [/home/zuowenjian/devspace/myprj/test/cases]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/test/cases/api_test.php -> /home/zuowenjian/devspace/myprj/test/cases/api_test.php
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/_prj ]  --> dst [/home/zuowenjian/devspace/myprj/_prj]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/_prj/tag_list -> /home/zuowenjian/devspace/myprj/_prj/tag_list
+INFO:root:proc file : src[ /data/x/tools/team/tpl/pylon_web/_rg ]  --> dst [/home/zuowenjian/devspace/myprj/_rg]
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/_rg/dev.yaml -> /home/zuowenjian/devspace/myprj/_rg/dev.yaml
+INFO:root:proc tpl file: /data/x/tools/team/tpl/pylon_web/_rg/run.yaml -> /home/zuowenjian/devspace/myprj/_rg/run.yaml
+ERROR:root:version updated : [0.6.2.105] ---> [0.6.2.106]
+ERROR:root:version updated : [0.6.2.106] ---> [0.6.2.107]
+ERROR:root:version updated : [0.6.2.107] ---> [0.6.2.108]
+ERROR:root:version updated : [0.6.2.108] ---> [0.6.2.109]
+ERROR:root:version updated : [0.6.2.109] ---> [0.6.2.110]
+ERROR:root:version updated : [0.6.2.110] ---> [0.6.2.111]
+ERROR:root:version updated : [0.6.2.111] ---> [0.6.2.112]
+ERROR:root:version updated : [0.6.2.112] ---> [0.6.2.113]
+ERROR:root:version updated : [0.6.2.113] ---> [0.6.2.114]
+ERROR:root:version updated : [0.6.2.114] ---> [0.6.2.115]
+ERROR:root:version updated : [0.6.2.115] ---> [0.6.2.116]
+ERROR:root:version updated : [0.6.2.116] ---> [0.6.2.117]
+ERROR:root:version updated : [0.6.2.117] ---> [0.6.2.118]
+ERROR:root:version updated : [0.6.2.118] ---> [0.6.2.119]
+ERROR:root:version updated : [0.6.2.119] ---> [0.6.2.120]
+ERROR:root:version updated : [0.6.2.120] ---> [0.6.2.121]
+ERROR:root:version updated : [0.6.2.121] ---> [0.6.2.122]
+ERROR:root:version updated : [0.6.2.122] ---> [0.6.2.123]
+ERROR:root:version updated : [0.6.2.123] ---> [0.6.2.124]
+ERROR:root:version updated : [0.6.2.124] ---> [0.6.2.125]
+ERROR:root:version updated : [0.6.2.125] ---> [0.6.2.126]
+ERROR:root:version updated : [0.6.2.126] ---> [0.6.2.127]
+DEBUG:root:yaml current path:/data/x/tools/mara-pub/bin/../cmd_conf
+INFO:root:[load] cmd <define.cmd instance at 0x2668128>
+INFO:root:[load] self.name :  mpub (mpub)
+INFO:root:[load] cmd <define.cmd instance at 0x2668bd8>
+INFO:root:[load] set DPRJ =  pylon-ng
+INFO:root:[load] self.name :  pylon-ng (pylon-ng)
+INFO:root:[load] cmd <define.cmd instance at 0x23b3908>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/pylon-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x266e488>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng/modules/setup.sh
+INFO:root:[load] set DVER =  0.19
+INFO:root:[load] self.name :  PHP5 (PHP5)
+INFO:root:[load] cmd <define.cmd instance at 0x2458170>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0x25e9950>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.19. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.19. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x266e4d0>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng-0.20/modules/setup.sh
+INFO:root:[load] set DVER =  0.20
+INFO:root:[load] self.name :  PHP7 (PHP7)
+INFO:root:[load] cmd <define.cmd instance at 0x25ec6c8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng-0.20/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0x25ecb48>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.20. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.20. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] set DPRJ =  rigger-ng
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x266e830>
+INFO:root:[load] self.name :  rigger-ng (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x266ecf8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/rigger-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x266eb90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj rigger-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x266ef38>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264f050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_bin
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264f128>
+INFO:root:[load] self.name :  mara_bin (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264f5f0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_bin (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264f488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_bin  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x264f830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264f908>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  team
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264f9e0>
+INFO:root:[load] self.name :  team (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264fea8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/team (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264fd40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj team  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x2648128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x2648200>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  cmd-mind
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x26482d8>
+INFO:root:[load] self.name :  cmd-mind (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x26487a0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/cmd-mind (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x2648638>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj cmd-mind  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x26489e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x2648ab8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  aliyun_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x2648b90>
+INFO:root:[load] self.name :  aliyun_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264b098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/aliyun_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264b050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj aliyun_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x264b2d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264b3b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  api-hub
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264b488>
+INFO:root:[load] self.name :  api-hub (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264b950>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/api-hub (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264b7e8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj api-hub  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x264bb90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264bc68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_sdk
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264bd40>
+INFO:root:[load] self.name :  mara_sdk (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264e248>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_sdk (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264e0e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_sdk  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x264e488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264e560>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  xcc_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264e638>
+INFO:root:[load] self.name :  xcc_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264eb00>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/xcc_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264e998>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj xcc_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x264ed40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264ee18>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  marathon-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264eef0>
+INFO:root:[load] self.name :  marathon-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264d440>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/marathon-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264d2d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj marathon-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x264d6c8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x264d7a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara-hd
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x264d878>
+INFO:root:[load] self.name :  mara-hd (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x264dd88>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara-hd (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x264dc20>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara-hd  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x2650050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x2650128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  user-gateway
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x2650200>
+INFO:root:[load] self.name :  user-gateway (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x2650878>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/user-gateway (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x2650830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj user-gateway  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x2650b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x2650c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  uac
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x2650d88>
+INFO:root:[load] self.name :  uac (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x2653488>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/uac (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x2653440>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj uac  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x26537a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x2653878>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  louis-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x2653998>
+INFO:root:[load] self.name :  louis-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x2656098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/louis-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x2656050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj louis-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x26563b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x2656488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: 
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: 
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: 
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[q : 71]
+DEBUG:root:,char:[u : 75]
+DEBUG:root:,char:[i : 69]
+DEBUG:root:,char:[t : 74]
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: quit
+DEBUG:root:yaml current path:/data/x/tools/mara-pub/bin/../cmd_conf
+INFO:root:[load] cmd <define.cmd instance at 0x188f128>
+INFO:root:[load] self.name :  mpub (mpub)
+INFO:root:[load] cmd <define.cmd instance at 0x188fbd8>
+INFO:root:[load] set DPRJ =  pylon-ng
+INFO:root:[load] self.name :  pylon-ng (pylon-ng)
+INFO:root:[load] cmd <define.cmd instance at 0x1695f80>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/pylon-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1895488>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng/modules/setup.sh
+INFO:root:[load] set DVER =  0.19
+INFO:root:[load] self.name :  PHP5 (PHP5)
+INFO:root:[load] cmd <define.cmd instance at 0x15e1098>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0x1810fc8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.19. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.19. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x18954d0>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng-0.20/modules/setup.sh
+INFO:root:[load] set DVER =  0.20
+INFO:root:[load] self.name :  PHP7 (PHP7)
+INFO:root:[load] cmd <define.cmd instance at 0x1813908>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng-0.20/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0x1813758>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.20. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.20. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] set DPRJ =  rigger-ng
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1895830>
+INFO:root:[load] self.name :  rigger-ng (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1895cf8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/rigger-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1895b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj rigger-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1895f38>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1876050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_bin
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1876128>
+INFO:root:[load] self.name :  mara_bin (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x18765f0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_bin (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1876488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_bin  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1876830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1876908>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  team
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x18769e0>
+INFO:root:[load] self.name :  team (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1876ea8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/team (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1876d40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj team  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x186f128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x186f200>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  cmd-mind
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x186f2d8>
+INFO:root:[load] self.name :  cmd-mind (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x186f7a0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/cmd-mind (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x186f638>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj cmd-mind  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x186f9e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x186fab8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  aliyun_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x186fb90>
+INFO:root:[load] self.name :  aliyun_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1872098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/aliyun_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1872050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj aliyun_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x18722d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x18723b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  api-hub
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1872488>
+INFO:root:[load] self.name :  api-hub (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1872950>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/api-hub (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x18727e8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj api-hub  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1872b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1872c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_sdk
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1872d40>
+INFO:root:[load] self.name :  mara_sdk (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1875248>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_sdk (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x18750e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_sdk  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1875488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1875560>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  xcc_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1875638>
+INFO:root:[load] self.name :  xcc_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1875b00>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/xcc_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1875998>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj xcc_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1875d40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1875e18>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  marathon-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1875ef0>
+INFO:root:[load] self.name :  marathon-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1874440>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/marathon-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x18742d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj marathon-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x18746c8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x18747a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara-hd
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1874878>
+INFO:root:[load] self.name :  mara-hd (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1874d88>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara-hd (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1874c20>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara-hd  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1877050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1877128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  user-gateway
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1877200>
+INFO:root:[load] self.name :  user-gateway (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x1877878>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/user-gateway (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x1877830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj user-gateway  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x1877b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x1877c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  uac
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x1877d88>
+INFO:root:[load] self.name :  uac (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x187a488>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/uac (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x187a440>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj uac  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x187a7a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x187a878>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  louis-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x187a998>
+INFO:root:[load] self.name :  louis-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x187d098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/louis-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x187d050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj louis-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x187d3b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x187d488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[m : 6d]
+DEBUG:root:,char:[a : 61]
+DEBUG:root:,char:[r : 72]
+DEBUG:root:,char:[a : 61]
+DEBUG:root:,char:[	 : 09]
+DEBUG:mode:init mode :cmd_prompt_mode
+DEBUG:mode:init cmd_prompt_mode prompter by cmd_mode 
+DEBUG:root:next to mara
+DEBUG:root:[is_match] key:mara name:pylon-ng
+DEBUG:root:[is_match] key:mara name:rigger-ng
+DEBUG:root:[is_match] key:mara name:mara_bin
+DEBUG:root:[is_match] key:mara name:team
+DEBUG:root:[is_match] key:mara name:cmd-mind
+DEBUG:root:[is_match] key:mara name:aliyun_sdks
+DEBUG:root:[is_match] key:mara name:api-hub
+DEBUG:root:[is_match] key:mara name:mara_sdk
+DEBUG:root:[is_match] key:mara name:xcc_sdks
+DEBUG:root:[is_match] key:mara name:marathon-web
+DEBUG:root:[is_match] key:mara name:mara-hd
+DEBUG:root:[is_match] key:mara name:user-gateway
+DEBUG:root:[is_match] key:mara name:uac
+DEBUG:root:[is_match] key:mara name:louis-web
+DEBUG:root:[prompter] [cmd prompt] current: mpub, word:mara
+DEBUG:mode:get prompter options by mara 
+DEBUG:root:[prompter] option: pylon-ng, word:mara : obj:cmd
+DEBUG:root:[using] using cmd.name : rigger-ng
+DEBUG:root:[prompter] option: rigger-ng, word:mara : obj:using
+DEBUG:root:[using] using cmd.name : mara_bin
+DEBUG:root:[prompter] option: mara_bin, word:mara : obj:using
+DEBUG:root:[prompter] prompt: _bin
+INFO:mode: prompt :_bin
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: mara_bin
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub mara_bin
+DEBUG:root:[is_match] key:mara_bin name:pylon-ng
+DEBUG:root:[is_match] key:mara_bin name:rigger-ng
+DEBUG:root:[is_match] key:mara_bin name:mara_bin
+DEBUG:root:[using] using cmd.name : mara_bin
+DEBUG:root:match mara_bin ,next to :mara_bin
+DEBUG:root:[using] using cmd.subs : [<define.using instance at 0x1876170>, <define.using instance at 0x1876248>, <define.using instance at 0x18764d0>, <define.using instance at 0x1876560>]
+DEBUG:root:yaml current path:/data/x/tools/mara-pub/bin/../cmd_conf
+INFO:root:[load] cmd <define.cmd instance at 0xbdb128>
+INFO:root:[load] self.name :  mpub (mpub)
+INFO:root:[load] cmd <define.cmd instance at 0xbdbbd8>
+INFO:root:[load] set DPRJ =  pylon-ng
+INFO:root:[load] self.name :  pylon-ng (pylon-ng)
+INFO:root:[load] cmd <define.cmd instance at 0x92d560>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/pylon-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbe1488>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng/modules/setup.sh
+INFO:root:[load] set DVER =  0.19
+INFO:root:[load] self.name :  PHP5 (PHP5)
+INFO:root:[load] cmd <define.cmd instance at 0x9266c8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0xb5cef0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.19. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.19. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbe14d0>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng-0.20/modules/setup.sh
+INFO:root:[load] set DVER =  0.20
+INFO:root:[load] self.name :  PHP7 (PHP7)
+INFO:root:[load] cmd <define.cmd instance at 0xb5f908>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng-0.20/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0xb5fb48>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.20. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.20. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] set DPRJ =  rigger-ng
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbe1830>
+INFO:root:[load] self.name :  rigger-ng (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbe1cf8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/rigger-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbe1b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj rigger-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbe1f38>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc2050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_bin
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc2128>
+INFO:root:[load] self.name :  mara_bin (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc25f0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_bin (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc2488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_bin  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc2830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc2908>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  team
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc29e0>
+INFO:root:[load] self.name :  team (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc2ea8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/team (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc2d40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj team  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbbb128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbbb200>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  cmd-mind
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbbb2d8>
+INFO:root:[load] self.name :  cmd-mind (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbbb7a0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/cmd-mind (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbbb638>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj cmd-mind  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbbb9e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbbbab8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  aliyun_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbbbb90>
+INFO:root:[load] self.name :  aliyun_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbbe098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/aliyun_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbbe050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj aliyun_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbbe2d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbbe3b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  api-hub
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbbe488>
+INFO:root:[load] self.name :  api-hub (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbbe950>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/api-hub (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbbe7e8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj api-hub  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbbeb90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbbec68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_sdk
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbbed40>
+INFO:root:[load] self.name :  mara_sdk (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc1248>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_sdk (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc10e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_sdk  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc1488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc1560>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  xcc_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc1638>
+INFO:root:[load] self.name :  xcc_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc1b00>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/xcc_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc1998>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj xcc_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc1d40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc1e18>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  marathon-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc1ef0>
+INFO:root:[load] self.name :  marathon-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc0440>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/marathon-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc02d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj marathon-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc06c8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc07a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara-hd
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc0878>
+INFO:root:[load] self.name :  mara-hd (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc0d88>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara-hd (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc0c20>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara-hd  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc3050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc3128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  user-gateway
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc3200>
+INFO:root:[load] self.name :  user-gateway (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc3878>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/user-gateway (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc3830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj user-gateway  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc3b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc3c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  uac
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc3d88>
+INFO:root:[load] self.name :  uac (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc6488>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/uac (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc6440>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj uac  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc67a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc6878>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  louis-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0xbc6998>
+INFO:root:[load] self.name :  louis-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0xbc9098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/louis-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0xbc9050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj louis-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0xbc93b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0xbc9488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[r : 72]
+DEBUG:root:,char:[i : 69]
+DEBUG:root:,char:[	 : 09]
+DEBUG:mode:init mode :cmd_prompt_mode
+DEBUG:mode:init cmd_prompt_mode prompter by cmd_mode 
+DEBUG:root:next to ri
+DEBUG:root:[is_match] key:ri name:pylon-ng
+DEBUG:root:[is_match] key:ri name:rigger-ng
+DEBUG:root:[is_match] key:ri name:mara_bin
+DEBUG:root:[is_match] key:ri name:team
+DEBUG:root:[is_match] key:ri name:cmd-mind
+DEBUG:root:[is_match] key:ri name:aliyun_sdks
+DEBUG:root:[is_match] key:ri name:api-hub
+DEBUG:root:[is_match] key:ri name:mara_sdk
+DEBUG:root:[is_match] key:ri name:xcc_sdks
+DEBUG:root:[is_match] key:ri name:marathon-web
+DEBUG:root:[is_match] key:ri name:mara-hd
+DEBUG:root:[is_match] key:ri name:user-gateway
+DEBUG:root:[is_match] key:ri name:uac
+DEBUG:root:[is_match] key:ri name:louis-web
+DEBUG:root:[prompter] [cmd prompt] current: mpub, word:ri
+DEBUG:mode:get prompter options by ri 
+DEBUG:root:[prompter] option: pylon-ng, word:ri : obj:cmd
+DEBUG:root:[using] using cmd.name : rigger-ng
+DEBUG:root:[prompter] option: rigger-ng, word:ri : obj:using
+DEBUG:root:[prompter] prompt: gger-ng
+INFO:mode: prompt :gger-ng
+DEBUG:root:,char:[  : 20]
+DEBUG:mode:init mode :space_mode
+DEBUG:mode:back mode:cmd_mode --> space_mode
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: rigger-ng 
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub rigger-ng
+DEBUG:root:[is_match] key:rigger-ng name:pylon-ng
+DEBUG:root:[is_match] key:rigger-ng name:rigger-ng
+DEBUG:root:[using] using cmd.name : rigger-ng
+DEBUG:root:match rigger-ng ,next to :rigger-ng
+DEBUG:root:[using] using cmd.subs : [<define.using instance at 0xbe1878>, <define.using instance at 0xbe1950>, <define.using instance at 0xbe1bd8>, <define.using instance at 0xbe1c68>]
+DEBUG:root:yaml current path:/data/x/tools/mara-pub/bin/../cmd_conf
+INFO:root:[load] cmd <define.cmd instance at 0x12d1128>
+INFO:root:[load] self.name :  mpub (mpub)
+INFO:root:[load] cmd <define.cmd instance at 0x12d1bd8>
+INFO:root:[load] set DPRJ =  pylon-ng
+INFO:root:[load] self.name :  pylon-ng (pylon-ng)
+INFO:root:[load] cmd <define.cmd instance at 0x10235a8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/pylon-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12d7488>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng/modules/setup.sh
+INFO:root:[load] set DVER =  0.19
+INFO:root:[load] self.name :  PHP5 (PHP5)
+INFO:root:[load] cmd <define.cmd instance at 0x101c680>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0x1255c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.19. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.19. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12d74d0>
+INFO:root:[load] set SETUP_CMD =  /data/x/libs/pylon-ng-0.20/modules/setup.sh
+INFO:root:[load] set DVER =  0.20
+INFO:root:[load] self.name :  PHP7 (PHP7)
+INFO:root:[load] cmd <define.cmd instance at 0x12529e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/libs/pylon-ng-0.20/modules/setup.sh" (/data/x/tools/mara-pub/rocket_cmd.sh --command "${SETUP_CMD}")
+INFO:root:[load] self.name :  setup (setup)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] cmd <define.cmd instance at 0x1252fc8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj pylon-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 1 0.20. (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  pylon-ng 5 0.20. (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] set DPRJ =  rigger-ng
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12d7830>
+INFO:root:[load] self.name :  rigger-ng (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12d7cf8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/rigger-ng (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12d7b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj rigger-ng  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  rigger-ng 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12d7f38>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b8050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p rigger-ng -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_bin
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b8128>
+INFO:root:[load] self.name :  mara_bin (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b85f0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_bin (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b8488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_bin  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_bin 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b8830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b8908>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_bin -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  team
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b89e0>
+INFO:root:[load] self.name :  team (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b8ea8>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/team (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b8d40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj team  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  team 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b1128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b1200>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p team -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  cmd-mind
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b12d8>
+INFO:root:[load] self.name :  cmd-mind (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b17a0>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/cmd-mind (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b1638>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj cmd-mind  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  cmd-mind 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b19e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b1ab8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p cmd-mind -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  aliyun_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b1b90>
+INFO:root:[load] self.name :  aliyun_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b4098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/aliyun_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b4050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj aliyun_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  aliyun_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b42d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b43b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p aliyun_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  api-hub
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b4488>
+INFO:root:[load] self.name :  api-hub (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b4950>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/api-hub (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b47e8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj api-hub  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  api-hub 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b4b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b4c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p api-hub -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara_sdk
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b4d40>
+INFO:root:[load] self.name :  mara_sdk (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b7248>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara_sdk (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b70e0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara_sdk  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara_sdk 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b7488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b7560>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara_sdk -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  xcc_sdks
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b7638>
+INFO:root:[load] self.name :  xcc_sdks (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b7b00>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/xcc_sdks (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b7998>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj xcc_sdks  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  xcc_sdks 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b7d40>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b7e18>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p xcc_sdks -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  marathon-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b7ef0>
+INFO:root:[load] self.name :  marathon-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b6440>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/marathon-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b62d8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj marathon-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  marathon-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b66c8>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b67a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p marathon-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  mara-hd
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b6878>
+INFO:root:[load] self.name :  mara-hd (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b6d88>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/mara-hd (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b6c20>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj mara-hd  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  mara-hd 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b9050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b9128>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p mara-hd -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  user-gateway
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b9200>
+INFO:root:[load] self.name :  user-gateway (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12b9878>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/user-gateway (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12b9830>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj user-gateway  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  user-gateway 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12b9b90>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12b9c68>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p user-gateway -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  uac
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12b9d88>
+INFO:root:[load] self.name :  uac (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12bc488>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/uac (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12bc440>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj uac  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  uac 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12bc7a0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12bc878>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p uac -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] set DPRJ =  louis-web
+INFO:root:[load] set DVER =  
+INFO:root:[load] cmd <define.cmd instance at 0x12bc998>
+INFO:root:[load] self.name :  louis-web (${DPRJ})
+INFO:root:[load] cmd <define.cmd instance at 0x12bf098>
+INFO:root:[load] self.call :  /data/x/tools/cmd-mind/ext/git_fetch /home/zuowenjian/devspace/louis-web (${CMD_ROOT}/ext/git_fetch ${HOME}/devspace/${DPRJ})
+INFO:root:[load] self.name :  fetch (fetch)
+INFO:root:[load] cmd <define.cmd instance at 0x12bf050>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_pub.sh --prj louis-web  (/data/x/tools/mara-pub/rocket_pub.sh --prj ${DPRJ} )
+INFO:root:[load] self.name :  pub (pub)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts -a (-f /data/x/tools/mara-pub/conf/all.hosts -a)
+INFO:root:[load] self.call :  --host $host (--host $host)
+INFO:root:[load] self.call :  --env $env (--env $env)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 1 . (${DPRJ} 1 ${DVER}.)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/last_tag (${CMD_ROOT}/ext/last_tag)
+INFO:root:[load] self.args :  louis-web 5 . (${DPRJ} 5 ${DVER}.)
+INFO:root:[load] self.call :  --tag $tag (--tag $tag)
+INFO:root:[load] cmd <define.cmd instance at 0x12bf3b0>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c ver" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c ver")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+INFO:root:[load] cmd <define.cmd instance at 0x12bf488>
+INFO:root:[load] self.call :  /data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p louis-web -c restart" (/data/x/tools/mara-pub/rocket_cmd.sh --command "/data/x/tools/mara_bin/prj_cmd.sh -p ${DPRJ} -c restart")
+INFO:root:[load] self.name :  ver (ver)
+INFO:root:[load] self.cmd :  /data/x/tools/cmd-mind/ext/read_ini (${CMD_ROOT}/ext/read_ini)
+INFO:root:[load] self.args :  -f /data/x/tools/mara-pub/conf/all.hosts (-f /data/x/tools/mara-pub/conf/all.hosts)
+INFO:root:[load] self.call :  --host $group (--host $group)
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[r : 72]
+DEBUG:root:,char:[i : 69]
+DEBUG:root:,char:[	 : 09]
+DEBUG:mode:init mode :cmd_prompt_mode
+DEBUG:mode:init cmd_prompt_mode prompter by cmd_mode 
+DEBUG:root:next to ri
+DEBUG:root:[is_match] key:ri name:pylon-ng
+DEBUG:root:[is_match] key:ri name:rigger-ng
+DEBUG:root:[is_match] key:ri name:mara_bin
+DEBUG:root:[is_match] key:ri name:team
+DEBUG:root:[is_match] key:ri name:cmd-mind
+DEBUG:root:[is_match] key:ri name:aliyun_sdks
+DEBUG:root:[is_match] key:ri name:api-hub
+DEBUG:root:[is_match] key:ri name:mara_sdk
+DEBUG:root:[is_match] key:ri name:xcc_sdks
+DEBUG:root:[is_match] key:ri name:marathon-web
+DEBUG:root:[is_match] key:ri name:mara-hd
+DEBUG:root:[is_match] key:ri name:user-gateway
+DEBUG:root:[is_match] key:ri name:uac
+DEBUG:root:[is_match] key:ri name:louis-web
+DEBUG:root:[prompter] [cmd prompt] current: mpub, word:ri
+DEBUG:mode:get prompter options by ri 
+DEBUG:root:[prompter] option: pylon-ng, word:ri : obj:cmd
+DEBUG:root:[using] using cmd.name : rigger-ng
+DEBUG:root:[prompter] option: rigger-ng, word:ri : obj:using
+DEBUG:root:[prompter] prompt: gger-ng
+INFO:mode: prompt :gger-ng
+DEBUG:root:,char:[  : 20]
+DEBUG:mode:init mode :space_mode
+DEBUG:mode:back mode:cmd_mode --> space_mode
+DEBUG:root:,char:[p : 70]
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[u : 75]
+DEBUG:root:,char:[b : 62]
+DEBUG:root:,char:[  : 20]
+DEBUG:mode:init mode :space_mode
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: rigger-ng pub 
+DEBUG:root:match cmd :mpub
+DEBUG:root:cmdline :mpub rigger-ng pub
+DEBUG:root:[is_match] key:rigger-ng name:pylon-ng
+DEBUG:root:[is_match] key:rigger-ng name:rigger-ng
+DEBUG:root:[using] using cmd.name : rigger-ng
+DEBUG:root:match rigger-ng ,next to :rigger-ng
+DEBUG:root:[using] using cmd.subs : [<define.using instance at 0x12d7878>, <define.using instance at 0x12d7950>, <define.using instance at 0x12d7bd8>, <define.using instance at 0x12d7c68>]
+DEBUG:root:[is_match] key:pub name:fetch
+DEBUG:root:[is_match] key:pub name:pub
+DEBUG:root:[using] using cmd.name : pub
+DEBUG:root:match pub ,next to :pub
+DEBUG:root:[using] using cmd.subs : []
+DEBUG:root:[using] using cmd.args : [<define.arg instance at 0x12d7d40>, <define.arg instance at 0x12d7dd0>, <define.arg instance at 0x12d7e60>]
+DEBUG:root:[using] using cmd.do : <bound method cmd.do of <define.cmd instance at 0x12d7b90>>
+INFO:root:[do] ignore arg group
+INFO:root:[do] ignore arg host
+INFO:root:cmd: ['/data/x/tools/cmd-mind/ext/last_tag', 'rigger-ng', '1', '.']
+DEBUG:root:[call] --tag $tag
+INFO:root:[do] cmd: /data/x/tools/mara-pub/rocket_pub.sh --prj rigger-ng  --tag 0.12.2.301
+DEBUG:root:[using] using cmd.name : pub
+DEBUG:root:match cmd :pub
+DEBUG:root:cmdline :mpub
+DEBUG:mode:init mode :cmd_mode
+DEBUG:root:,char:[q : 71]
+DEBUG:root:,char:[u : 75]
+DEBUG:root:,char:[i : 69]
+DEBUG:root:,char:[t : 74]
+DEBUG:root:,char:[ : 0d]
+INFO:root:receive cmd: quit
+ERROR:root:version updated : [0.6.2.127] ---> [0.6.2.128]

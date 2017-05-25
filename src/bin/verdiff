@@ -1,0 +1,54 @@
+#!/usr/bin/python
+#coding=utf-8
+import  re , os , string ,  getopt ,sys,pdb
+from subprocess import *
+
+
+class version_diff :
+    def diff(self,host1,host2) :
+        vers1 = self.get_ver(host1)
+        vers2 = self.get_ver(host2)
+        vers1_len = len(vers1)
+        vers2_len = len(vers2)
+        if vers1_len < 3:
+            print ("No get version data : %s" %host1)
+            print (vers1)
+        if vers2_len < 3:
+            print ("No get version data : %s" %host2)
+            print (vers2)
+
+        print("%s : %s" %(host1,host2))
+        print("---------------------------------------------------" )
+        for   i in xrange(len(vers1)):
+            key,ver1 = vers1[i].strip().split(':')
+            key,ver2 = vers2[i].strip().split(':')
+            if  ver1 == ver2 :
+                print("%s : %-10s" %(key,ver1))
+            else:
+                print("%s : %-10s , %-10s" %(key,ver1,ver2))
+
+
+        pass
+    def get_ver(self,host) :
+        cmd  = "'/data/x/tools/mara_bin/cat_ver.sh'"
+        p    = Popen(["ssh" , host,cmd], bufsize=1024, stdout=PIPE, close_fds=True)
+        return p.stdout.readlines()
+def useage():
+    print "verdiff -h host1:host2"
+
+if __name__ == '__main__':
+    try :
+        opts, args = getopt.getopt(sys.argv[1:], "h:")
+    except getopt.GetoptError as err:
+        useage()
+        sys.exit(2)
+    if len( opts) == 0 :
+        useage()
+        sys.exit(2)
+
+    for o, a in opts:
+        if o == "-h":
+            hosts= a
+    h1,h2 = hosts.split(':')
+    diff = version_diff()
+    diff.diff(h1,h2)
